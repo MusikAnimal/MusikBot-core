@@ -1,0 +1,9 @@
+auth.rb
+*.swp
+*.log
+TODO
+env
+.bundle
+.ruby-version
+disk_cache
+application.yml

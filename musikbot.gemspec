@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.licenses = ["Apache 2.0"]
   s.required_ruby_version = Gem::Requirement.new(">= 2.3.1")
   s.rubygems_version = "2.4.2"
+  s.summary = "Make MusikBot work!"
 end
